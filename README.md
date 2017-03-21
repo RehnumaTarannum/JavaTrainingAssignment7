@@ -5,4 +5,4 @@
 # Contains java files with solutions to following problems:
 
 
-Make a java program in which you include doGet(), doPost(), doPut(), doDelete() in the servelts. If needed you can add html files accordingly.
+Make a java program in which you include doGet(). If needed you can add html files accordingly.
